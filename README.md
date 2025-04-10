@@ -15,8 +15,8 @@ Whether you're a beginner or an experienced Python user, this tutorial will give
 
 
 ## About Me
-- Sven from Coding Is Fun
-- Website: https://www.upwork.com/freelancers/haseebf
+- Coding Is Fun
+- Upwork: https://www.upwork.com/freelancers/haseebf
 
 ## Feedback
 If you have any feedback, please reach out to me at haseebfarooq200@gmail.com
